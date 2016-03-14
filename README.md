@@ -22,3 +22,5 @@ The websocket location is ws://peaceful-ridge-14628.herokuapp.com/channel/{keywo
 - run `npm install`
 - run `./activator compile run`
 - go to `localhost:9000`
+
+-change :D
